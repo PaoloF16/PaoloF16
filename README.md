@@ -65,8 +65,17 @@ Responsive weather application with API integration and dynamic UI.
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Let's Connect
 
-* LinkedIn
-* GitHub
-* Portfolio
+I'm always excited to collaborate on interesting projects, discuss technology, and continue growing as a developer 🚀
+
+### Find me around the web:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com/in/TU-PERFIL](https://www.linkedin.com/in/franko-paolo-fiorentini/))
+
+[![GitHub](https://img.shields.io/badge/GitHub-Open%20Source%20Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PaoloF16)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](https://TU-PORTFOLIO)
+
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:paolo.cafis@gmail.com)
+
