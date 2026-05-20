@@ -18,29 +18,20 @@ Currently expanding my backend skills with Java & Spring Boot while continuously
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Languages & Frameworks
 
-### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nextjs,sass,bootstrap,tailwind,java,spring" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge\&logo=sass)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap)
+---
 
-### Backend Learning
+## ⚙️ Tools & Technologies
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,terminal" />
+</p>
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
 
 ---
 
